@@ -1,6 +1,10 @@
 # jenkinsPipeline
-POC to have Jenkins pipeline as as a code
+POC to have Jenkins pipeline defined as a code
 <br>
 <br> 
-Requires Pipeline plugin to be installed.
-Repo can be tehn added for source of the configuration file (via UI congiuration)
+Requires Pipeline and  Github Branch Source plugins to be installed.
+
+SCM Repo can be then added for source of the Pipeline configuration file (via UI congiuration)
+
+NOTE: Jenkisfile in Github repo needs to be in master branch
+
